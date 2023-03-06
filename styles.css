@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#wrapper{
+    background-color: rgb(29, 27, 27);
+}
+.navbar{
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color:black;
+    height: 40px;
+}
+p{
+ color: white;
+}
+.para-content{
+    display: grid;
+    justify-content: center;
+
+}
+.Last-update{
+    display: flex;
+    justify-content: center;
+}
+.image-content{
+    display: flex;
+    justify-content:space-around;
+     padding-bottom:20px;
+}
